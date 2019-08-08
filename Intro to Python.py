@@ -25,7 +25,7 @@ print(result3)
 print(result4)
 print(result4)
 
-sen = "I Love Avengers \n"
+sen = "I Love Avengers. \n"
 print(sen*5)
 
 #Conditional Statements
