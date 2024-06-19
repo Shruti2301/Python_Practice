@@ -1,8 +1,8 @@
 
-Instructions
-You're going to write some code to help you cook a gorgeous lasagna from your favorite cookbook.
+## Instructions
+#You're going to write some code to help you cook a gorgeous lasagna from your favorite cookbook.
 
-You have five tasks, all related to cooking your recipe.
+#You have five tasks, all related to cooking your recipe.
 
 ------------------------------------------------------------------------------------------------
 #TODO: define the 'EXPECTED_BAKE_TIME' constant.
